@@ -1,7 +1,7 @@
 # Личный проект «Менеджер задач» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юрий](https://up.htmlacademy.ru/ecmascript/9/user/869395).
-* Наставник: `Неизвестно`.
+* Наставник: `Олег Зубов`.
 
 ---
 
